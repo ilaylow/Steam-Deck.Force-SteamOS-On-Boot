@@ -10,7 +10,7 @@ Updated Script will now set `BootNext` (the next OS to boot) to `CurrentBoot` (t
 
 # Install (via Curl)
 
-In Konsole type `curl -sSL https://raw.githubusercontent.com/scawp/Steam-Deck.Force-SteamOS-On-Boot/main/curl_install.sh | bash`
+In Konsole type `curl -sSL https://raw.githubusercontent.com/ilaylow/Steam-Deck.Force-SteamOS-On-Boot/main/curl_install.sh | bash`
 
 
 # Uninstall
